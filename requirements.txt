@@ -1,0 +1,8 @@
+langchain
+langchain-community
+pypdf
+faiss-cpu
+faiss-gpu
+langchain-ollama
+langchain-google-genai
+python-dotenv
