@@ -62,7 +62,7 @@ The main components of the project are structured as follows:
 1. **Clone the repository:**
 
     ```bash
-    git clone [<repository-url>](https://github.com/al-chris/RAG/tree/41ce161bbaf554db0fdeef56e8275faa9d3fc2ef)
+    git clone https://github.com/al-chris/RAG/tree/41ce161bbaf554db0fdeef56e8275faa9d3fc2ef
     cd RAG
     ```
 
